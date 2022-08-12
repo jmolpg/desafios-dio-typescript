@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.fontFamily": "Consolas, 'Courier New', monospace"
+}
